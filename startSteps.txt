@@ -1,0 +1,28 @@
+1) if you clone the repo :-
+   - npm i
+
+2) If you start from the scratch :-
+npm create vite@latest --> react and js
+if 'vite' is not recognized as an internal or external command, operable program or batch file.--> npm 
+<>...</> --> this is wrapper
+giving class name ---> className
+file name extensions used ---> .jsx
+vs code react extension for autofill ----> ES7+ React/Redux/React-Native snippets
+rafce ---> shortcut
+
+3)folder structure :-
+root
+    |-> index.html
+    |-> components
+    |       |-> folders
+    |              |->.jsx files
+    |              |-> their respective .js files
+    |              |-> their respective .css files
+    |-> public
+    |
+    |-> src
+        |->assets
+        |-> App.css
+        |-> App.jsx
+        |-> main.jsx
+    
